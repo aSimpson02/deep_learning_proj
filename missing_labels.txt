@@ -1,0 +1,10 @@
+Database_Realtime/Vision/Webcam/03-transparent-100-rice-1229/Wed_29_Dec_2021_17_37_33/231.jpg
+Database_Realtime/Vision/Webcam/03-plate-100-green-1229/Wed_29_Dec_2021_17_52_55/101.jpg
+Database_Realtime/Vision/Webcam/03-goblet-100-rice-1229/Wed_29_Dec_2021_17_31_22/624.jpg
+Database_Realtime/Vision/Webcam/03-smallcup-100-rice-1229/Wed_29_Dec_2021_17_36_29/392.jpg
+Database_Realtime/Vision/Webcam/03-smallcup-100-green-1229/Wed_29_Dec_2021_17_39_38/298.jpg
+Database_Realtime/Vision/Webcam/03-goblet-100-green-1229/Wed_29_Dec_2021_17_38_45/518.jpg
+Database_Realtime/Vision/Webcam/03-goblet-100-rice-1229/Wed_29_Dec_2021_17_31_22/103.jpg
+Database_Realtime/Vision/Webcam/03-goblet-100-yellow-1229/Wed_29_Dec_2021_17_16_56/443.jpg
+Database_Realtime/Vision/Webcam/03-plate-100-yellow-1229/Wed_29_Dec_2021_17_29_08/160.jpg
+Database_Realtime/Vision/Webcam/03-transparent-100-green-1229/Wed_29_Dec_2021_17_40_34/360.jpg
